@@ -1,0 +1,47 @@
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\bin\Debug\Sinema Bilet Otomasyonu.exe.config
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\bin\Debug\Sinema Bilet Otomasyonu.exe
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\bin\Debug\Sinema Bilet Otomasyonu.pdb
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Formsalonek.resources
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.FormAnasayfa.resources
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Properties.Resources.resources
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.exe
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.pdb
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Form1.resources
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.FrmSeansekleorm3.resources
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.frmSeansListele.resources
+C:\Users\ASUS\Desktop\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.formsatıslisteleme.resources
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\bin\Debug\Sinema Bilet Otomasyonu.exe.config
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\bin\Debug\Sinema Bilet Otomasyonu.exe
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\bin\Debug\Sinema Bilet Otomasyonu.pdb
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.csprojAssemblyReference.cache
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Form1.resources
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Formsalonek.resources
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.formsatıslisteleme.resources
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.FrmSeansekleorm3.resources
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.FormAnasayfa.resources
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.frmSeansListele.resources
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Properties.Resources.resources
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.csproj.GenerateResource.cache
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.csproj.CoreCompileInputs.cache
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.exe
+F:\proje\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.pdb
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\bin\Debug\Sinema Bilet Otomasyonu.exe.config
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\bin\Debug\Sinema Bilet Otomasyonu.exe
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\bin\Debug\Sinema Bilet Otomasyonu.pdb
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Form1.resources
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Formsalonek.resources
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.formsatıslisteleme.resources
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.FrmSeansekleorm3.resources
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.FormAnasayfa.resources
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.frmSeansListele.resources
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Properties.Resources.resources
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.exe
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.pdb
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.Form2.resources
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema_Bilet_Otomasyonu.kaydol.resources
+C:\Users\ASUS\Desktop\proje2\Sinema Otomasyonu\Sinema Bilet Otomasyonu\obj\Debug\Sinema Bilet Otomasyonu.csproj.AssemblyReference.cache
